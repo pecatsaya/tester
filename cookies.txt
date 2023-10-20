@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+nx-cdn.trgwl.com	TRUE	/	FALSE	1999999999	AWSALB	DlXaF0k+0laP9EcXP3VFYoZYKXxZXEQuRA+EjfeY+qK1ip1QRuA4/xkSBYo5cA/cqutxxnsMT/ICCHr+E7J4vjFBJ8D3Y4duGT+P1avxWNjIRk14PxQESUDKeYyv
+nx-cdn.trgwl.com	TRUE	/	FALSE	1999999999	AWSALBCORS	DlXaF0k+0laP9EcXP3VFYoZYKXxZXEQuRA+EjfeY+qK1ip1QRuA4/xkSBYo5cA/cqutxxnsMT/ICCHr+E7J4vjFBJ8D3Y4duGT+P1avxWNjIRk14PxQESUDKeYyv
+nx-cdn.trgwl.com	TRUE	/	FALSE	1999999999	SameSite	None
+
